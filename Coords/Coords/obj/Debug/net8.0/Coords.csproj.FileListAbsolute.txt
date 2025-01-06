@@ -1,0 +1,5 @@
+C:\Users\hynek.vaner.023\source\repos\p2a-prg-coordinates\Coords\Coords\obj\Debug\net8.0\Coords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hynek.vaner.023\source\repos\p2a-prg-coordinates\Coords\Coords\obj\Debug\net8.0\Coords.AssemblyInfoInputs.cache
+C:\Users\hynek.vaner.023\source\repos\p2a-prg-coordinates\Coords\Coords\obj\Debug\net8.0\Coords.AssemblyInfo.cs
+C:\Users\hynek.vaner.023\source\repos\p2a-prg-coordinates\Coords\Coords\obj\Debug\net8.0\Coords.csproj.CoreCompileInputs.cache
+C:\Users\hynek.vaner.023\source\repos\p2a-prg-coordinates\Coords\Coords\obj\Debug\net8.0\Coords.sourcelink.json
